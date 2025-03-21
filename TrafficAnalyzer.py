@@ -1,7 +1,5 @@
 #Author: Thewan Chanmina Jayaweera
 #Date: 23/12/2024
-#Student ID: 20241538(IIT)/W2121370(UOW)
-
 
 # Task D: Histogram Display
 import tkinter as tk
