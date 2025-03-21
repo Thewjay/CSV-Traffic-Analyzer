@@ -28,3 +28,6 @@ TrafficAnalyzer is a Python-based program designed to analyze traffic data from 
 1. Clone this repository:  
    ```bash
    git clone https://github.com/yourusername/TrafficAnalyzer.git
+2. Open the python file using IDLE python (Or download at https://www.python.org/downloads/)
+3. Locate "with open" syntax and change the file path to the location of the clone folder. (replace '\' with '\\' in the path)
+4. Double click the 'TrafficAnalyzer.py' file to open with cmd or open IDLE and locate the file to run 
